@@ -1,3 +1,5 @@
+NOTE: REMEMBER TO UPDATE THE CHANGELOG.MD WITH A DESCRIPTIVE ENTRY BEFORE MERGING THE PR
+
 **Explanation**
 Add a clear and concise explanation of what the PR is about. Imagine you are writing to someone who has never seen the project, and want to quickly get them up to speed.
 
